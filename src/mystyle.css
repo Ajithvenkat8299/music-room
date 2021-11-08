@@ -1,0 +1,47 @@
+li{
+    width: 320px;
+}
+
+li:hover{
+    border-left: 4px solid #F97316;   
+}
+
+.btn-1 {
+    background:#1f3347;
+    color: #F97316;
+    cursor: pointer;
+    font-size: 20px;
+    border: 0;
+    transition: all 0.5s;
+    border-radius: 10px;
+    width:150px;
+    position: relative;
+}
+/* .btn-1::after {
+        content: "\f061";
+        font-family: "Font Awesome 5 Pro";
+        font-weight: 400;
+        position: absolute;
+        left: 35%;
+        top: 5%;
+        right: 5%;
+        bottom: 0;
+        opacity: 0;
+
+}
+
+.btn-1:hover {
+        transition: all 0.5s;
+        border-radius: 10px;
+        padding: 1px 3.5rem 0px 0px;
+}
+
+.btn-1:hover::after {
+            opacity: 1;
+            transition: all 0.5s;
+
+} */
+
+.endcard{
+    margin-left: 1385px;
+}
